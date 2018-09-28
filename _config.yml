@@ -1,2 +1,8 @@
 name: Esperantskribaĉoj
 theme: jekyll-theme-minimal
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Madison Scott-Clary"
