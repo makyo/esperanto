@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Ĉefpaĝo
 ---
 
 {% for post in site.posts %}
